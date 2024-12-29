@@ -1,5 +1,7 @@
+import { Button } from "~/components/ui/button";
 import logoDark from "./logo-dark.svg";
 import logoLight from "./logo-light.svg";
+import { Link } from "react-router";
 
 export function Welcome({ message }: { message: string }) {
   return (
@@ -25,6 +27,9 @@ export function Welcome({ message }: { message: string }) {
               What&apos;s next?
             </p>
             <ul>
+              <li>
+                <Link to="/about">About</Link>
+              </li>
               {resources.map(({ href, text, icon }) => (
                 <li key={href}>
                   <a
@@ -40,6 +45,7 @@ export function Welcome({ message }: { message: string }) {
               ))}
               <li className="self-stretch p-3 leading-normal">{message}</li>
             </ul>
+            <Button>Test123</Button>
           </nav>
         </div>
       </div>

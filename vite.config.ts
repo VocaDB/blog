@@ -4,9 +4,20 @@ import autoprefixer from "autoprefixer";
 import tailwindcss from "tailwindcss";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
+import path from "path";
+import contentCollections from "@content-collections/vite";
 
 export default defineConfig(({ isSsrBuild }) => ({
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "./"),
+      "~": path.resolve(__dirname, "./app"),
+    },
+  },
   build: {
+    commonjsOptions: {
+      transformMixedEsModules: true,
+    },
     rollupOptions: isSsrBuild
       ? {
           input: "./workers/app.ts",
@@ -45,5 +56,6 @@ export default defineConfig(({ isSsrBuild }) => ({
     }),
     reactRouter(),
     tsconfigPaths(),
+    contentCollections(),
   ],
 }));
