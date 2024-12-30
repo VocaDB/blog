@@ -20,7 +20,11 @@ export const links: Route.LinksFunction = () => [
   },
   {
     rel: "stylesheet",
-    href: "https://api.fontshare.com/css?f[]=satoshi@400,700&display=swap",
+    href: "https://api.fontshare.com/css?f[]=satoshi@400,800&display=swap",
+  },
+  {
+    rel: "stylesheet",
+    href: "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+JP&display=swap",
   },
   { rel: "stylesheet", href: stylesheet },
 ];

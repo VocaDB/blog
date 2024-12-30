@@ -10,7 +10,7 @@ body {
     color-scheme: dark;
   }
 
-  font-family: "Satoshi";
+  font-family: "Satoshi", "IBM Plex Sans JP", "serif";
 }
 
 @layer base {

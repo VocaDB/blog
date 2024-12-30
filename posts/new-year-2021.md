@@ -3,6 +3,8 @@ title: Happy New Year 2021!
 summary: Taking a look back at 2021
 author: andreoda
 slug: new-year-2021
+cover: temp_test.jpg
+date: 2021-01-01
 ---
 
 # New Year 2021!
