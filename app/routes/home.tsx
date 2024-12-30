@@ -40,12 +40,14 @@ const BlogEntryCard = ({ entry }: BlogEntryCardProps) => {
   return (
     <div>
       <Link to={"/blog/" + entry.slug}>
-        <h1 className="text-4xl font-extrabold">{entry.title}</h1>
+        <h1 className="text-4xl font-extrabold underline decoration-transparent hover:decoration-foreground transition-colors duration-300">
+          {entry.title}
+        </h1>
       </Link>
       <p className="text-muted-foreground mt-2">
         {entry.date.toLocaleDateString()}
       </p>
-      <p className="text-muted-foreground mt-4">
+      <p className="text-muted-foreground mt-4 line-clamp-3">
         {entry.shortened}
         {"…"}
       </p>
