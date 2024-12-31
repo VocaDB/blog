@@ -1,7 +1,8 @@
 import type { Route } from "./+types/home";
-import { Welcome } from "../welcome/welcome";
 import { allPosts, type Post } from "@/.content-collections/generated";
 import { Link } from "react-router";
+import { Avatar, AvatarImage, AvatarFallback } from "~/components/avatar";
+import { cn } from "~/lib/utils";
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -11,11 +12,13 @@ export function meta({}: Route.MetaArgs) {
 }
 
 type BlogEntryInfo = Omit<
-  Omit<Omit<Omit<Post, "content">, "date">, "html">,
-  "_meta"
-> & { date: Date };
+  Omit<Omit<Omit<Omit<Post, "content">, "date">, "html">, "_meta">,
+  "authors"
+> & {
+  date: Date;
+};
 
-export function loader({ context }: Route.LoaderArgs) {
+export function loader() {
   const posts = allPosts
     .map(
       (post): BlogEntryInfo => ({
@@ -23,20 +26,21 @@ export function loader({ context }: Route.LoaderArgs) {
         cover: post.cover,
         shortened: post.shortened,
         date: new Date(post.date),
-        author: post.author,
+        parsedAuthors: post.parsedAuthors,
         slug: post.slug,
-        summary: post.summary,
       })
     )
-    .slice(0, 5);
-  return { message: context.VALUE_FROM_CLOUDFLARE, posts };
+    .slice(0, 5)
+    .sort((a, b) => b.date.getTime() - a.date.getTime());
+  return { posts };
 }
 
 interface BlogEntryCardProps {
+  compact?: boolean;
   entry: BlogEntryInfo;
 }
 
-const BlogEntryCard = ({ entry }: BlogEntryCardProps) => {
+const BlogEntryCard = ({ entry, compact = false }: BlogEntryCardProps) => {
   return (
     <div>
       <Link to={"/blog/" + entry.slug}>
@@ -44,24 +48,49 @@ const BlogEntryCard = ({ entry }: BlogEntryCardProps) => {
           {entry.title}
         </h1>
       </Link>
-      <p className="text-muted-foreground mt-2">
+      <p className={cn(compact ? "mt-1" : "mt-2", "text-muted-foreground")}>
         {entry.date.toLocaleDateString()}
       </p>
-      <p className="text-muted-foreground mt-4 line-clamp-3">
+      <p
+        className={cn(
+          compact ? "mt-2" : "mt-4",
+          "text-muted-foreground line-clamp-3"
+        )}
+      >
         {entry.shortened}
         {"…"}
       </p>
+      <div className={cn(compact ? "mt-2" : "mt-4", "flex flex-row gap-4")}>
+        {entry.parsedAuthors.map((author) => (
+          <div key={author.id} className="flex flex-row gap-2 items-center">
+            <Avatar>
+              <AvatarImage
+                src={`https://static.vocadb.net/img/user/mainThumb/${author.avatarSrc}`}
+              />
+              <AvatarFallback>{author.name.slice(0, 2)}</AvatarFallback>
+            </Avatar>
+            <p className="text-muted-foreground">{author.name}</p>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };
 
 export default function Home({ loaderData }: Route.ComponentProps) {
+  const posts = loaderData.posts;
   return (
     <div className="w-full flex justify-center">
-      <div className="max-w-2xl">
-        {loaderData.posts.map((post) => (
-          <BlogEntryCard entry={post} key={post.title} />
-        ))}
+      <div className="max-w-3xl">
+        {posts.length > 0 && <BlogEntryCard entry={posts[0]} />}
+        <div className="flex flex-row gap-[2%] flex-wrap">
+          {posts.length > 1 &&
+            loaderData.posts.slice(1).map((post) => (
+              <div className="md:w-5/12 grow mt-4" key={post.slug}>
+                <BlogEntryCard compact entry={post} />
+              </div>
+            ))}
+        </div>
       </div>
     </div>
   );
