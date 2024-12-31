@@ -1,71 +1,49 @@
-# Welcome to React Router!
+# VocaDB Blog
 
-A modern, production-ready template for building full-stack React applications using React Router.
+This repository contains the source code and content for the VocaDB blog, hosted at [blog.vocadb.net](https://blog.vocadb.net). The blog shares updates, guides, and insights related to VocaDB, a comprehensive database for Vocaloid and related music.
 
 ## Features
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+- Static site generation for fast performance
+- Asset bundling and optimization
+- SEO-friendly architecture
+- Markdown-based content management
+- TailwindCSS for modern, responsive styling
+- Easy deployment via Wrangler CLI
+
+---
 
 ## Getting Started
 
+### Prerequisites
+
+Make sure you have the following tools installed:
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/) (for deployment)
+
 ### Installation
 
-Install the dependencies:
+Install project dependencies:
 
 ```bash
 npm install
 ```
 
-### Development
+## Development
 
-Start the development server with HMR:
+Start the development server with hot module replacement (HMR):
 
 ```bash
 npm run dev
 ```
 
-Your application will be available at `http://localhost:5173`.
+The blog will be available at http://localhost:5173.
 
-## Building for Production
+## Adding New Content
 
-Create a production build:
+Content for the blog is managed using Markdown files. To add a new post:
 
-```bash
-npm run build
-```
-
-## Deployment
-
-Deployment is done using the Wrangler CLI.
-
-To deploy directly to production:
-
-```sh
-npx wrangler deploy
-```
-
-To deploy a preview URL:
-
-```sh
-npx wrangler versions upload
-```
-
-You can then promote a version to production after verification or roll it out progressively.
-
-```sh
-npx wrangler versions deploy
-```
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
-
----
-
-Built with ❤️ using React Router.
+1. Navigate to the posts/ directory.
+2. Create a new .md file for your post.
+3. Use the frontmatter format for metadata (e.g., title, date, tags).
