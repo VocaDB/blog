@@ -1,13 +1,12 @@
 ---
 title: Happy New Year 2021!
-summary: Taking a look back at 2021
-author: andreoda
+authors: ["andreoda"]
 slug: new-year-2021
 cover: temp_test.jpg
 date: 2021-01-01
 ---
 
-# New Year 2021!
+# Happy New Year 2021!
 
 The strange year of 2020 is now over and it’s time for our semi-annual blog post.
 
