@@ -65,7 +65,7 @@ const BlogEntryCard = ({ entry, compact = false }: BlogEntryCardProps) => {
           <div key={author.id} className="flex flex-row gap-2 items-center">
             <Avatar>
               <AvatarImage
-                src={`https://static.vocadb.net/img/user/mainThumb/${author.avatarSrc}`}
+                src={`https://static.vocadb.net/img/user/mainTiny/${author.avatarSrc}`}
               />
               <AvatarFallback>{author.name.slice(0, 2)}</AvatarFallback>
             </Avatar>

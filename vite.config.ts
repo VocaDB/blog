@@ -5,7 +5,6 @@ import tailwindcss from "tailwindcss";
 import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 import path from "path";
-import contentCollections from "@content-collections/vite";
 
 export default defineConfig(({ isSsrBuild }) => ({
   resolve: {
@@ -20,7 +19,10 @@ export default defineConfig(({ isSsrBuild }) => ({
     },
     rollupOptions: isSsrBuild
       ? {
-          input: "./workers/app.ts",
+          input: {
+            "index.js": "virtual:react-router/server-build",
+            "worker.js": "./workers/app.ts",
+          },
         }
       : undefined,
   },
@@ -55,7 +57,20 @@ export default defineConfig(({ isSsrBuild }) => ({
       },
     }),
     reactRouter(),
+    {
+      name: "react-router-cloudflare-workers",
+      config: () => ({
+        build: {
+          rollupOptions: isSsrBuild
+            ? {
+                output: {
+                  entryFileNames: "[name]",
+                },
+              }
+            : undefined,
+        },
+      }),
+    },
     tsconfigPaths(),
-    contentCollections(),
   ],
 }));
