@@ -15,6 +15,13 @@ export const links: Route.LinksFunction = () => [
   { rel: "preconnect", href: "https://fonts.googleapis.com" },
   { rel: "preconnect", href: "https://cdn.fontshare.com" },
   {
+    rel: "preload",
+    fetchPriority: "high",
+    as: "image",
+    href: "/images/miku_ievan_polka.webp",
+    type: "image/webp",
+  },
+  {
     rel: "preconnect",
     href: "https://fonts.gstatic.com",
     crossOrigin: "anonymous",

@@ -30,7 +30,6 @@ export function loader() {
         slug: post.slug,
       })
     )
-    .slice(0, 5)
     .sort((a, b) => b.date.getTime() - a.date.getTime());
   return { posts };
 }
@@ -86,7 +85,21 @@ export default function Home({ loaderData }: Route.ComponentProps) {
   return (
     <div className="w-full flex justify-center">
       <div className="max-w-3xl">
-        {posts.length > 0 && <BlogEntryCard entry={posts[0]} />}
+        <div className="flex flex-row w-full">
+          {posts.length > 0 && (
+            <div className="md:w-1/2 float-left">
+              <BlogEntryCard entry={posts[0]} />
+            </div>
+          )}
+          <div className="w-1/2 md:block hidden">
+            <img
+              alt=""
+              fetchPriority="high"
+              className="w-3/4 mx-auto"
+              src="/images/miku_ievan_polka.webp"
+            />
+          </div>
+        </div>
         <div className="flex flex-row gap-[2%] flex-wrap">
           {posts.length > 1 &&
             loaderData.posts.slice(1).map((post) => (
