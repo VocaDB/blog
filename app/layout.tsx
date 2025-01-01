@@ -7,7 +7,7 @@ export default function SiteLayout() {
       <header className="sticky top-0 h-16 backdrop-blur border-b border-[hsl(var(--border))]">
         <div className="container gap-4 flex items-center">
           <Link to="/">
-            <img className="max-h-16" src="/VocaDB_Logo.svg" />
+            <img alt="" className="max-h-16" src="/VocaDB_Logo.svg" />
           </Link>
           <Link to="/">Home</Link>
           <Link to="//wiki.vocadb.net">Wiki</Link>
