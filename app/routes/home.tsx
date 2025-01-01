@@ -48,7 +48,10 @@ const BlogEntryCard = ({ entry, compact = false }: BlogEntryCardProps) => {
           {entry.title}
         </h1>
       </Link>
-      <p className={cn(compact ? "mt-1" : "mt-2", "text-muted-foreground")}>
+      <p
+        suppressHydrationWarning
+        className={cn(compact ? "mt-1" : "mt-2", "text-muted-foreground")}
+      >
         {entry.date.toLocaleDateString()}
       </p>
       <p
