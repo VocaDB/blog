@@ -26,14 +26,3 @@ Because VocaDB has proven to be a robust and adaptable platform. There are many 
 The structure of the database is still being worked on, meaning the list of song and album types may change based on feedback. Feel free to register and start editing if you’re interested. The same guidelines from VocaDB apply for the most part.
 
 If you have questions or wish to discuss the website, there’s [a Discord server for TouhouDB](https://discord.gg/GscZYEE). Feel free to post comments here as well, or in the discussion area.
-
----
-
-Share this:
-
-- [Facebook](https://blog.vocadb.net/touhoudb-open-beta/?share=facebook)
-- [Reddit](https://blog.vocadb.net/touhoudb-open-beta/?share=reddit)
-- [Twitter](https://blog.vocadb.net/touhoudb-open-beta/?share=twitter)
-
-Like this:
-Like

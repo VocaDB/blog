@@ -71,8 +71,3 @@ At the end of the year an exciting Vocaloid event was hosted by NicoNicoDouga: [
 - **Vocaloid**: [Hatsune Miku NT](https://vocadb.net/Ar/84429), [v flower Talk](https://vocadb.net/Ar/79867)
 - **Voiceroid**: [Iori Yuzuru](https://vocadb.net/Ar/79100)
 - **Voidol**: [GUMI](https://vocadb.net/Ar/85252), [Takai Tsukina](https://vocadb.net/Ar/84024), [Terashima Yufu](https://vocadb.net/Ar/84023), [Yuzuki Yukari](https://vocadb.net/Ar/84008)
-
----
-
-**Update**: I created a short Google form / survey related to VocaDB. It can be filled out here:  
-[https://forms.gle/Af255tALiMR4QMm79](https://forms.gle/Af255tALiMR4QMm79)

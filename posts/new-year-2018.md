@@ -39,14 +39,3 @@ According to the [first work -tag](http://vocadb.net/T/158/first-work), there we
 3. [Nobody Makes Sense by PinocchioP](http://vocadb.net/S/153133)
 4. [SPARKS by DECO＊27](http://vocadb.net/S/164074)
 5. [Nerve Impulse by Police Piccadilly](http://vocadb.net/S/149662)
-
----
-
-Share this:
-
-- [Facebook](https://blog.vocadb.net/happy-new-year-2018/?share=facebook)
-- [Reddit](https://blog.vocadb.net/happy-new-year-2018/?share=reddit)
-- [Twitter](https://blog.vocadb.net/happy-new-year-2018/?share=twitter)
-
-Like this:
-Like
