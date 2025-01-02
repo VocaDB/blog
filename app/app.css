@@ -17,6 +17,22 @@ body {
     sans-serif;
 }
 
+.prose img {
+  max-height: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prose img + em {
+  text-align: center;
+  display: block;
+  margin-top: -1.5em;
+}
+
+.prose > :first-child > img {
+  margin-top: 0.5em;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;

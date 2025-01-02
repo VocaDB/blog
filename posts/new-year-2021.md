@@ -8,6 +8,9 @@ date: 2021-01-01
 
 # Happy New Year 2021!
 
+![Illustration by mel tea](/images/miku-2021.jpg)
+_Illustration by [mel tea](https://www.pixiv.net/en/users/39091544)_
+
 The strange year of 2020 is now over and it’s time for our semi-annual blog post.
 
 The past year has been a big change for VocaDB as well. The workload was restructured, and the torch of running the site has been passed from a single person to the community.
