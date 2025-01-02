@@ -84,7 +84,7 @@ export default function Home({ loaderData }: Route.ComponentProps) {
   const posts = loaderData.posts;
   return (
     <div className="w-full flex justify-center">
-      <div className="max-w-3xl">
+      <div className="md:max-w-3xl lg:max-w-4xl xl:max-w-5xl">
         <div className="flex flex-row w-full">
           {posts.length > 0 && (
             <div className="md:w-1/2 float-left">
