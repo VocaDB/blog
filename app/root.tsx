@@ -35,6 +35,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <script
+          defer
+          src="https://vocadb-analytics.fly.dev/script.js"
+          data-website-id="a8fa7dc0-b1f8-4fff-b9cc-48a3d1520caa"
+        ></script>
         <Meta />
         <Links />
       </head>
