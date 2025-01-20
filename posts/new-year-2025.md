@@ -121,19 +121,19 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ### Top 5 original songs on NND (by views):
 
-1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (4 518 331)
-2. [イガク (Igaku)](https://vocadb.net/S/588814) (3 213 275)
-3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (1 604 128)
-4. [㋰責任集合体 (Musekinin Shuugoutai)](https://vocadb.net/S/626191) (1 202 257)
-5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (1 109 747)
+1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (4 518 000)
+2. [イガク (Igaku)](https://vocadb.net/S/588814) (3 213 000)
+3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (1 604 000)
+4. [㋰責任集合体 (Musekinin Shuugoutai)](https://vocadb.net/S/626191) (1 202 000)
+5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (1 110 000)
 
 ### Top 5 original songs on YouTube (by views):
 
-1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (109 844 879)
-2. [イガク (Igaku)](https://vocadb.net/S/588814) (29 530 324)
-3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (18 911 193)
-4. [み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ (Mimukauwa Nice Try)](https://vocadb.net/S/709707) (16 780 478)
-5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (16 220 201)
+1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (109 845 000)
+2. [イガク (Igaku)](https://vocadb.net/S/588814) (29 530 000)
+3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (18 911 000)
+4. [み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ (Mimukauwa Nice Try)](https://vocadb.net/S/709707) (16 780 000)
+5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (16 220 000)
 
 ---
 
