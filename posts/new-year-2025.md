@@ -28,7 +28,8 @@ Early in 2024 our wiki also got extensively updated in terms of functionality, U
 - [Stats](https://vocadb.net/stats) added to the sidebar
 - User group colors ([#1712](https://github.com/VocaDB/vocadb/issues/1712))
 - Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements
-  Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog)
+
+Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog)
 
 Before we dive into last year’s statistics, we’re excited to give you a quick update on what we’ve been calling **“Project Mirai”**. We don’t want to give too much away just yet, but there’s a big project in the works focused on improving the UI and making the site easier to navigate overall. Curious? We’ll be sharing all the details in a dedicated blog post at the end of January, so stay tuned—it’s something we’ve been looking forward to showing you!
 
