@@ -19,7 +19,7 @@ It's been a few years since our previous [New Year's post](https://blog.vocadb.n
 
 The year 2024 has been great for VocaDB (now 13 years old since beta!). New user registrations, comments and edits have been growing at an increasing rate. For example in the previous year we had roughly **600 000** edits, which is nearly **30 %** of all the edits over our whole 10+ year history. See more statistics below.
 
-![VocaDB - Edits over time](https://github.com/user-attachments/assets/632a4ed0-4b41-4add-9aae-7202279ae276)
+![VocaDB edits by month](/images/edits-by-month.png)
 
 **The main website updates from 2024:**
 
