@@ -21,8 +21,6 @@ The year 2024 has been great for VocaDB (now 13 years old since beta!). New user
 
 ![VocaDB - Edits over time](https://github.com/user-attachments/assets/632a4ed0-4b41-4add-9aae-7202279ae276)
 
-Early in 2024 our wiki also got extensively updated in terms of functionality, UI and content.
-
 **The main website updates from 2024:**
 
 - New artist types: [VOICEVOX](https://vocadb.net/T/8533/voicevox), [A.I.VOICE](https://vocadb.net/T/7776) and [ACE Virtual Singer](https://vocadb.net/T/8863)
@@ -30,6 +28,8 @@ Early in 2024 our wiki also got extensively updated in terms of functionality, U
 - [Stats](https://vocadb.net/stats) added to the sidebar
 - User group colors ([#1712](https://github.com/VocaDB/vocadb/issues/1712))
 - Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements
+
+Early in 2024 our wiki also got extensively updated in terms of functionality, UI and content.
 
 Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog).
 
