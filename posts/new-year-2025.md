@@ -8,6 +8,9 @@ date: 2025-01-20
 
 # Happy New Year 2025!
 
+![Illustration by びんちょうまぐろ](https://github.com/user-attachments/assets/2b5aafba-6a66-4ba0-8b82-7695b2557adf)
+_Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389829)_
+
 Finally it is time for a new statistical report of the previous year.
 
 It's been a few years since our previous [New Year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
@@ -18,11 +21,11 @@ Early in 2024 our wiki also got extensively updated in terms of functionality, U
 
 The main website updates from 2024:
 
-- New artist types: [VOICEVOX](https://vocadb.net/T/8533/voicevox), [A.I.VOICE](https://vocadb.net/T/7776) and [ACE Virtual Singer](https://vocadb.net/T/8863).
-- Finer tag target controls ([#1387](https://github.com/VocaDB/vocadb/issues/1387)).
-- [Stats](https://vocadb.net/stats) added to the sidebar.
-- User group colors ([#1712](https://github.com/VocaDB/vocadb/issues/1712)).
-- Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements.
+- New artist types: [VOICEVOX](https://vocadb.net/T/8533/voicevox), [A.I.VOICE](https://vocadb.net/T/7776) and [ACE Virtual Singer](https://vocadb.net/T/8863)
+- Finer tag target controls ([#1387](https://github.com/VocaDB/vocadb/issues/1387))
+- [Stats](https://vocadb.net/stats) added to the sidebar
+- User group colors ([#1712](https://github.com/VocaDB/vocadb/issues/1712))
+- Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements
   Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog)
 
 Before we dive into last year’s statistics, we’re excited to give you a quick update on what we’ve been calling “Project Mirai”. We don’t want to give too much away just yet, but there’s a big project in the works focused on improving the UI and making the site easier to navigate overall. Curious? We’ll be sharing all the details in a dedicated blog post at the end of January, so stay tuned—it’s something we’ve been looking forward to showing you!
@@ -34,6 +37,8 @@ Congratulations to all!
 
 Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in Winter and we catalogued over 4600 songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
 To see more events that happened in 2024, see our [event page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2024-01-01T18%3A43%3A08.071Z&beforeDate=2024-12-31T18%3A43%3A04.427Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory=&filter=&onlyMyEvents=false&page=1&pageSize=10&sort=Name).
+
+---
 
 ## VocaDB statistics 2024:
 
