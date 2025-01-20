@@ -11,6 +11,7 @@ date: 2025-01-20
 ![Illustration by びんちょうまぐろ](https://github.com/user-attachments/assets/2b5aafba-6a66-4ba0-8b82-7695b2557adf)
 _Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389829)_
 
+
 Finally it is time for a new statistical report of the previous year.
 
 It's been a few years since our previous [New Year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
@@ -19,7 +20,7 @@ The year 2024 has been great for VocaDB. New user registrations, comments and ed
 
 Early in 2024 our wiki also got extensively updated in terms of functionality, UI and content.
 
-The main website updates from 2024:
+**The main website updates from 2024:**
 
 - New artist types: [VOICEVOX](https://vocadb.net/T/8533/voicevox), [A.I.VOICE](https://vocadb.net/T/7776) and [ACE Virtual Singer](https://vocadb.net/T/8863)
 - Finer tag target controls ([#1387](https://github.com/VocaDB/vocadb/issues/1387))
@@ -35,12 +36,13 @@ We got to witness the 10th anniversaries of these voice synthesizers: [Chika](ht
 We also shouldn’t forget that voice synthesizers [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their 20th anniversary since release.
 Congratulations to all!
 
-Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in Winter and we catalogued over 4600 songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
+Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in winter and we catalogued over 4600 songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
 To see more events that happened in 2024, see our [event page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2024-01-01T18%3A43%3A08.071Z&beforeDate=2024-12-31T18%3A43%3A04.427Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory=&filter=&onlyMyEvents=false&page=1&pageSize=10&sort=Name).
 
 ---
 
-## VocaDB statistics 2024:
+## VocaDB statistics 2024
+
 
 - New users: 3200 (19 % of all the users)
 - Comments posted: 15 000 (33 % of all the comments)
@@ -115,7 +117,8 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ---
 
-## General statistics 2024:
+## General statistics 2024
+
 
 ### Top 5 original songs on NND (by views):
 
