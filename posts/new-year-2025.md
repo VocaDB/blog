@@ -38,7 +38,7 @@ We got to witness the **10th anniversary** of these voice synthesizers: [Chika](
 We also shouldn’t forget that voice synthesizers [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their **20th anniversary** since release.
 Congratulations to all!
 
-Besides the character anniversaries there were of course many other events in 2024. For example **“[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”**, an annual upload festival, happened in winter and we catalogued over **4 600** songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
+Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in winter and we catalogued over **4 600** songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
 To see more events that happened in 2024, see our [event page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2024-01-01T18%3A43%3A08.071Z&beforeDate=2024-12-31T18%3A43%3A04.427Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory=&filter=&onlyMyEvents=false&page=1&pageSize=10&sort=Name).
 
 ---
