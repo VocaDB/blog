@@ -51,11 +51,11 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ### Top 5 original songs (by rating score):
 
-1. [メズマライザー](https://vocadb.net/S/610187)
-2. [イガク](https://vocadb.net/S/588814)
-3. [BUTCHER VANITY](https://vocadb.net/S/605339)
-4. [モニタリング](https://vocadb.net/S/668055)
-5. [ヤババイナ](https://vocadb.net/S/588674)
+1. [メズマライザー by サツキ](https://vocadb.net/S/610187)
+2. [イガク by 原口沙輔](https://vocadb.net/S/588814)
+3. [BUTCHER VANITY by Jamie Paige & rice & Vane](https://vocadb.net/S/605339)
+4. [モニタリング by DECO*27 & Hayato Yamamoto](https://vocadb.net/S/668055)
+5. [ヤババイナ by さたぱんP](https://vocadb.net/S/588674)
 
 ### Top 5 (other than original) songs (by rating score):
 
@@ -75,35 +75,35 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ### Top 5 producers (by rating score):
 
-1. [Jamie Paige (2 451)](https://vocadb.net/Ar/48752)
-2. [DECO\*27 (1 536)](https://vocadb.net/Ar/45)
-3. [いよわ (iyowa) (1 342)](https://vocadb.net/Ar/65229)
-4. [TONE (1 295)](https://vocadb.net/Ar/80489)
-5. [原口沙輔 (Haraguchi Sasuke) (1 277)](https://vocadb.net/Ar/123316)
+1. [Jamie Paige](https://vocadb.net/Ar/48752) (2 451)
+2. [DECO\*27](https://vocadb.net/Ar/45) (1 536)
+3. [いよわ (iyowa)](https://vocadb.net/Ar/65229) (1 342)
+4. [TONE](https://vocadb.net/Ar/80489) (1 295)
+5. [原口沙輔 (Haraguchi Sasuke)](https://vocadb.net/Ar/123316) (1 277)
 
 ### Top 5 new producers (by rating score):
 
-1. [Hayato Yamamoto (1 058)](https://vocadb.net/Ar/135037)
-2. [食人 (Shokujin) (240)](https://vocadb.net/Ar/135166)
-3. [マキシウキョウ (Maxi Ukyo) (239)](https://vocadb.net/Ar/133610)
-4. [Puppet-P (193)](https://vocadb.net/Ar/143055)
-5. [チバニャン (ChibaNyan) (170)](https://vocadb.net/Ar/131848)
+1. [Hayato Yamamoto](https://vocadb.net/Ar/135037) (1 058)
+2. [食人 (Shokujin)](https://vocadb.net/Ar/135166) (240)
+3. [マキシウキョウ (Maxi Ukyo)](https://vocadb.net/Ar/133610) (239)
+4. [Puppet-P](https://vocadb.net/Ar/143055) (193)
+5. [チバニャン (ChibaNyan)](https://vocadb.net/Ar/131848) (170)
 
 ### Top 5 voice synths (by songs):
 
-1. [初音ミク (Hatsune Miku) (15 427)](https://vocadb.net/Ar/1)
-2. [重音テト (Kasane Teto) (7 443)](https://vocadb.net/Ar/140308)
-3. [巡音ルカ (Megurine Luka) (2 977)](https://vocadb.net/Ar/2)
-4. [可不 (KAFU) (2 707)](https://vocadb.net/Ar/83928)
-5. [GUMI (2 699)](https://vocadb.net/Ar/3)
+1. [初音ミク (Hatsune Miku)](https://vocadb.net/Ar/1) (15 427)
+2. [重音テト (Kasane Teto)](https://vocadb.net/Ar/140308) (7 443)
+3. [巡音ルカ (Megurine Luka)](https://vocadb.net/Ar/2) (2 977)
+4. [可不 (KAFU)](https://vocadb.net/Ar/83928) (2 707)
+5. [GUMI](https://vocadb.net/Ar/3) (2 699)
 
 ### Top 5 new voice synths (by songs):
 
-1. [フリモメン (Frimomen) (Synthesizer V) (435)](https://vocadb.net/Ar/131564)
-2. [宮舞モカ (Miyamai Moca) (Synthesizer V) (392)](https://vocadb.net/Ar/144383)
-3. [奕夕 (Yi Xi) (Synthesizer V) (219)](https://vocadb.net/Ar/132680)
-4. [音街ウナ (Otomachi Una) (Synthesizer V) (200)](https://vocadb.net/Ar/147883)
-5. [KAITO SP (Vocaloid) (197)](https://vocadb.net/Ar/142625)
+1. [フリモメン (Frimomen) (Synthesizer V)](https://vocadb.net/Ar/131564) (435)
+2. [宮舞モカ (Miyamai Moca) (Synthesizer V)](https://vocadb.net/Ar/144383) (392)
+3. [奕夕 (Yi Xi) (Synthesizer V)](https://vocadb.net/Ar/132680) (219)
+4. [音街ウナ (Otomachi Una) (Synthesizer V)](https://vocadb.net/Ar/147883) (200)
+5. [KAITO SP (Vocaloid)](https://vocadb.net/Ar/142625) (197)
 
 ### Top 5 most popular music genres:
 
@@ -113,23 +113,25 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 4. [pop](https://vocadb.net/T/341/pop)
 5. [chiptune](https://vocadb.net/T/62/chiptune)
 
+---
+
 ## General statistics 2024:
 
 ### Top 5 original songs on NND (by views):
 
-1. [メズマライザー (Mesmerizer) (4 518 331)](https://vocadb.net/S/610187)
-2. [イガク (Igaku) (3 213 275)](https://vocadb.net/S/588814)
-3. [テトリス (Tetoris) (1 604 128)](https://vocadb.net/S/696221)
-4. [㋰責任集合体 (Musekinin Shuugoutai) (1 202 257)](https://vocadb.net/S/626191)
-5. [モニタリング (Monitoring) (1 109 747)](https://vocadb.net/S/668055)
+1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (4 518 331)
+2. [イガク (Igaku)](https://vocadb.net/S/588814) (3 213 275)
+3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (1 604 128)
+4. [㋰責任集合体 (Musekinin Shuugoutai)](https://vocadb.net/S/626191) (1 202 257)
+5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (1 109 747)
 
 ### Top 5 original songs on YouTube (by views):
 
-1. [メズマライザー (Mesmerizer) (109 844 879)](https://vocadb.net/S/610187)
-2. [イガク (Igaku) (29 530 324)](https://vocadb.net/S/588814)
-3. [テトリス (Tetoris) (18 911 193)](https://vocadb.net/S/696221)
-4. [み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ (Mimukauwa Nice Try) (16 780 478)](https://vocadb.net/S/709707)
-5. [モニタリング (Monitoring) (16 220 201)](https://vocadb.net/S/668055)
+1. [メズマライザー (Mesmerizer)](https://vocadb.net/S/610187) (109 844 879)
+2. [イガク (Igaku)](https://vocadb.net/S/588814) (29 530 324)
+3. [テトリス (Tetoris)](https://vocadb.net/S/696221) (18 911 193)
+4. [み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ (Mimukauwa Nice Try)](https://vocadb.net/S/709707) (16 780 478)
+5. [モニタリング (Monitoring)](https://vocadb.net/S/668055) (16 220 201)
 
 ---
 
