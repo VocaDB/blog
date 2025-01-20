@@ -12,7 +12,13 @@ export const loader = ({ params }: Route.LoaderArgs) => {
 };
 
 export const meta = ({ data }: Route.MetaArgs) => {
-  return [{ title: data.post.title }];
+  return [
+    { title: data.post.title },
+    {
+      property: "og:title",
+      content: data.post.title,
+    },
+  ];
 };
 
 export default function BlogEntry(props: Route.ComponentProps) {

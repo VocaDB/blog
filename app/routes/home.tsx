@@ -7,6 +7,30 @@ import { cn } from "~/lib/utils";
 export function meta({}: Route.MetaArgs) {
   return [
     { title: "VocaDB Blog" },
+    {
+      property: "og:type",
+      content: "website",
+    },
+    {
+      property: "og:title",
+      content: "VocaDB Blog",
+    },
+    {
+      property: "og:locale",
+      content: "en_US",
+    },
+    {
+      property: "twitter:creator",
+      content: "@VocaDB",
+    },
+    {
+      property: "twitter:site",
+      content: "@VocaDB",
+    },
+    {
+      property: "og:desription",
+      content: "VocaDB news blog",
+    },
     { name: "description", content: "Welcome to the official VocaDB blog" },
   ];
 }
