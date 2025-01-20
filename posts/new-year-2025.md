@@ -11,6 +11,7 @@ date: 2025-01-20
 ![Illustration by びんちょうまぐろ](https://github.com/user-attachments/assets/2b5aafba-6a66-4ba0-8b82-7695b2557adf)
 _Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389829)_
 
+---
 
 Finally it is time for a new statistical report of the previous year.
 
@@ -42,7 +43,7 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 ---
 
 ## VocaDB statistics 2024
-
+<br>
 
 - New users: 3200 (19 % of all the users)
 - Comments posted: 15 000 (33 % of all the comments)
@@ -118,7 +119,7 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 ---
 
 ## General statistics 2024
-
+<br>
 
 ### Top 5 original songs on NND (by views):
 
