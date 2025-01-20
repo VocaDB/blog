@@ -17,7 +17,7 @@ Finally it is time for a new statistical report of the previous year.
 
 It's been a few years since our previous [New Year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
 
-The year 2024 has been great for VocaDB. New user registrations, comments and edits have been growing at an increasing rate. For example in the previous year we had roughly 600 000 edits, which is nearly 30 % of all the edits over our whole 10+ year history. See more statistics below.
+The year 2024 has been great for VocaDB. New user registrations, comments and edits have been growing at an increasing rate. For example in the previous year we had roughly **600 000** edits, which is nearly **30 %** of all the edits over our whole 10+ year history. See more statistics below.
 
 Early in 2024 our wiki also got extensively updated in terms of functionality, UI and content.
 
@@ -30,20 +30,19 @@ Early in 2024 our wiki also got extensively updated in terms of functionality, U
 - Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements
   Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog)
 
-Before we dive into last year’s statistics, we’re excited to give you a quick update on what we’ve been calling “Project Mirai”. We don’t want to give too much away just yet, but there’s a big project in the works focused on improving the UI and making the site easier to navigate overall. Curious? We’ll be sharing all the details in a dedicated blog post at the end of January, so stay tuned—it’s something we’ve been looking forward to showing you!
+Before we dive into last year’s statistics, we’re excited to give you a quick update on what we’ve been calling **“Project Mirai”**. We don’t want to give too much away just yet, but there’s a big project in the works focused on improving the UI** and making the site easier to navigate overall. Curious? We’ll be sharing all the details in a dedicated blog post at the end of January, so stay tuned—it’s something we’ve been looking forward to showing you!
 
 Lastly but not least, we would like to inform you about the most important voice synth -related events that happened last year.
-We got to witness the 10th anniversaries of these voice synthesizers: [Chika](https://vocadb.net/Ar/25148), [kokone](https://vocadb.net/Ar/16545), [Rana](https://vocadb.net/Ar/23600), [v flower](https://vocadb.net/Ar/21165), [anon](https://vocadb.net/Ar/18365) & [kanon](https://vocadb.net/Ar/18364), [Kotonoha Akane & Aoi](https://vocadb.net/Ar/129575) and [Yamine Renri](https://vocadb.net/Ar/106532).
-We also shouldn’t forget that voice synthesizers [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their 20th anniversary since release.
+We got to witness the **10th anniversaries** of these voice synthesizers: [Chika](https://vocadb.net/Ar/25148), [kokone](https://vocadb.net/Ar/16545), [Rana](https://vocadb.net/Ar/23600), [v flower](https://vocadb.net/Ar/21165), [anon](https://vocadb.net/Ar/18365) & [kanon](https://vocadb.net/Ar/18364), [Kotonoha Akane & Aoi](https://vocadb.net/Ar/129575) and [Yamine Renri](https://vocadb.net/Ar/106532).
+We also shouldn’t forget that voice synthesizers [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their **20th anniversary** since release.
 Congratulations to all!
 
-Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in winter and we catalogued over 4600 songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
+Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in winter and we catalogued over **4 600** songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
 To see more events that happened in 2024, see our [event page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2024-01-01T18%3A43%3A08.071Z&beforeDate=2024-12-31T18%3A43%3A04.427Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory=&filter=&onlyMyEvents=false&page=1&pageSize=10&sort=Name).
 
 ---
 
 ## VocaDB statistics 2024
-<br>
 
 - New users: 3200 (19 % of all the users)
 - Comments posted: 15 000 (33 % of all the comments)
@@ -119,7 +118,6 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 ---
 
 ## General statistics 2024
-<br>
 
 ### Top 5 original songs on NND (by views):
 
