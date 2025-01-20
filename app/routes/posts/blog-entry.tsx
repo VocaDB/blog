@@ -11,6 +11,10 @@ export const loader = ({ params }: Route.LoaderArgs) => {
   return { post };
 };
 
+export const meta = ({ data }: Route.MetaArgs) => {
+  return [{ title: data.post.title }];
+};
+
 export default function BlogEntry(props: Route.ComponentProps) {
   return (
     <div className="w-full flex justify-center">
