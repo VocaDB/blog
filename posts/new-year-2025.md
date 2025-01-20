@@ -137,4 +137,4 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ---
 
-Thank you for reading and supporting us! We wish you a fulfilling year 2025!
+Thank you for reading this and supporting us! We wish you a fulfilling year 2025!
