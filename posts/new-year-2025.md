@@ -13,46 +13,47 @@ _Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389
 
 ---
 
-Finally it is time for a new statistical report of the previous year.
+Finally, it's time for a new statistical report of the previous year.
 
 It's been a few years since our previous [New Year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
 
-The year 2024 has been great for VocaDB (now 13 years old since beta!). New user registrations, comments and edits have been growing at an increasing rate. For example in the previous year we had roughly **600 000** edits, which is nearly **30 %** of all the edits over our whole 10+ year history. See more statistics below.
+The year 2024 has been great for VocaDB (now 13 years old since beta!). During 2024, there was a significant increase in new user registrations, comments, and edits. For example, there were roughly **600 000** edits in 2024, which make up nearly **30%** of **all edits** over VocaDB's 10+ year history. See more statistics below.
 
 ![VocaDB edits by month](/images/edits-by-month.png)
 
-**The main website updates from 2024:**
+**New features in 2024:**
 
 - New artist types: [VOICEVOX](https://vocadb.net/T/8533/voicevox), [A.I.VOICE](https://vocadb.net/T/7776) and [ACE Virtual Singer](https://vocadb.net/T/8863)
 - Finer tag target controls ([#1387](https://github.com/VocaDB/vocadb/issues/1387))
 - [Stats](https://vocadb.net/stats) added to the sidebar
 - User group colors ([#1712](https://github.com/VocaDB/vocadb/issues/1712))
-- Various new translations, embed integration fixes, datetime fixes, weblink matchers and performance improvements
+- Various new translations, embed integration fixes, datetime fixes, weblink matchers and overall performance improvements.
 
-Early in 2024 our wiki also got extensively updated in terms of functionality, UI and content.
+Early in 2024, our [Wiki](https://wiki.vocadb.net/) also got an extensive update in terms of functionality, UI and content.
 
-Other site updates are fully listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog).
+Other site updates are listed in the [VocaDB Changelog](https://wiki.vocadb.net/docs/documentation/vocadb-changelog).
 
 Before we dive into last year’s statistics, we’re excited to give you a quick update on what we’ve been calling **“Project Mirai”**. We don’t want to give too much away just yet, but there’s a big project in the works focused on improving the UI and making the site easier to navigate overall. Curious? We’ll be sharing all the details in a dedicated blog post at the end of January, so stay tuned—it’s something we’ve been looking forward to showing you!
 
 Lastly but not least, we would like to inform you about the most important voice synth -related events that happened last year.
 We got to witness the **10th anniversary** of these voice synthesizers: [Chika](https://vocadb.net/Ar/25148), [kokone](https://vocadb.net/Ar/16545), [Rana](https://vocadb.net/Ar/23600), [v flower](https://vocadb.net/Ar/21165), [anon](https://vocadb.net/Ar/18365) & [kanon](https://vocadb.net/Ar/18364), [Kotonoha Akane & Aoi](https://vocadb.net/Ar/129575) and [Yamine Renri](https://vocadb.net/Ar/106532).
-We also shouldn’t forget that voice synthesizers [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their **20th anniversary** since release.
+We also shouldn’t forget that [LEON](https://vocadb.net/Ar/386) & [LOLA](https://vocadb.net/Ar/387), [MEIKO](https://vocadb.net/Ar/176) and [MIRIAM](https://vocadb.net/Ar/388) celebrated their **20th anniversaries**!
 Congratulations to all!
 
-Besides the character anniversaries there were of course many other events in 2024. For example “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)”, an annual upload festival, happened in winter and we catalogued over **4 600** songs for it. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
+Besides the character anniversaries, there were many other big events in 2024. For example, we catalogued over **4 600** songs for “[The VOCALOID Collection](https://vocadb.net/Es/264/the-vocaloid-collection)” (VocaColle), an annual upload festival, this winter. Check it out yourself [here](https://vocadb.net/E/6504/the-vocaloid-collection-2024-w).
+
 To see more events that happened in 2024, see our [event page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2024-01-01T18%3A43%3A08.071Z&beforeDate=2024-12-31T18%3A43%3A04.427Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory=&filter=&onlyMyEvents=false&page=1&pageSize=10&sort=Name).
 
 ---
 
-## VocaDB statistics 2024
+## VocaDB Year in Review: 2024
 
-- New users: 3200 (19 % of all the users)
-- Comments posted: 15 000 (33 % of all the comments)
-- Songs added: 150 000 (23 %)
-- Albums added: 5 000 (17 %)
-- Artists added: 20 000 (17 %)
-- Edits made: 600 000 (29 %)
+- New users: 3 200 (19% of all users)
+- Comments posted: 15 000 (33% of all comments)
+- Songs added: 150 000 (23%)
+- Albums added: 5 000 (17%)
+- Artists added: 20 000 (17%)
+- Edits made: 600 000 (29%)
 
 ### Top 5 original songs (by rating score):
 
@@ -62,13 +63,13 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 4. [モニタリング by DECO*27 & Hayato Yamamoto](https://vocadb.net/S/668055)
 5. [ヤババイナ by さたぱんP](https://vocadb.net/S/588674)
 
-### Top 5 (other than original) songs (by rating score):
+### Top 5 derivative songs (by rating score):
 
-1. [M@GICAL☆CURE! LOVE ♥ SHOT! (Special Edition) by SAWTOWNE](https://vocadb.net/S/603850)
-2. [ドーナツホール 2024 by ハチ](https://vocadb.net/S/680923)
-3. [Machine Love by Jamie Paige](https://vocadb.net/S/642667)
-4. [ニャン by MARETU](https://vocadb.net/S/720610)
-5. [化けの花 by なきそ](https://vocadb.net/S/685577)
+1. [M@GICAL☆CURE! LOVE ♥ SHOT! (Special Edition) by SAWTOWNE](https://vocadb.net/S/603850) (Remix)
+2. [ドーナツホール 2024 by ハチ](https://vocadb.net/S/680923) (Music PV)
+3. [Machine Love by Jamie Paige](https://vocadb.net/S/642667) (Remaster)
+4. [ニャン by MARETU](https://vocadb.net/S/720610) (Remix)
+5. [化けの花 by なきそ](https://vocadb.net/S/685577) (Cover)
 
 ### Top 5 albums (by collection count):
 
@@ -94,7 +95,7 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 4. [Puppet-P](https://vocadb.net/Ar/143055) (193)
 5. [チバニャン (ChibaNyan)](https://vocadb.net/Ar/131848) (170)
 
-### Top 5 voice synths (by songs):
+### Top 5 voice synths (by new songs):
 
 1. [初音ミク (Hatsune Miku)](https://vocadb.net/Ar/1) (15 427)
 2. [重音テト (Kasane Teto)](https://vocadb.net/Ar/140308) (7 443)
@@ -102,7 +103,7 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 4. [可不 (KAFU)](https://vocadb.net/Ar/83928) (2 707)
 5. [GUMI](https://vocadb.net/Ar/3) (2 699)
 
-### Top 5 new voice synths (by songs):
+### Top 5 new voice synths (by new songs):
 
 1. [フリモメン (Frimomen) (Synthesizer V)](https://vocadb.net/Ar/131564) (435)
 2. [宮舞モカ (Miyamai Moca) (Synthesizer V)](https://vocadb.net/Ar/144383) (392)
@@ -140,4 +141,4 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ---
 
-Thank you for reading this and supporting us! We wish you a fulfilling year 2025!
+Thank you for reading this and supporting us! We wish you a fulfilling 2025!
