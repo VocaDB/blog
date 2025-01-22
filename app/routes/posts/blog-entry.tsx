@@ -20,7 +20,9 @@ export const meta = ({ data }: Route.MetaArgs) => {
     },
     {
       property: "og:image",
-      content: data.post.cover ? "/covers/" + data.post.cover : "/profile.jpg",
+      content: `https://blog.vocadb.net/${
+        data.post.cover ? "/covers/" + data.post.cover : "/profile.jpg"
+      }`,
     },
     {
       property: "og:title",

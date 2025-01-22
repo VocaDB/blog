@@ -42,7 +42,7 @@ export const meta = () => {
     },
     {
       property: "og:image",
-      content: "/profile.jpg",
+      content: "https://blog.vocadb.net/profile.jpg",
     },
   ];
 };
