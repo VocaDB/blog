@@ -2,7 +2,7 @@
 title: Happy New Year 2025!
 authors: ["andreoda"]
 slug: new-year-2025
-cover: temp_test.jpg
+cover: new-year-2025.png
 date: 2025-01-20
 ---
 
@@ -59,8 +59,8 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 1. [メズマライザー by サツキ](https://vocadb.net/S/610187)
 2. [イガク by 原口沙輔](https://vocadb.net/S/588814)
 3. [BUTCHER VANITY by Jamie Paige & rice & Vane](https://vocadb.net/S/605339)
-4. [モニタリング by DECO*27 & Hayato Yamamoto](https://vocadb.net/S/668055)
-5. [ヤババイナ by さたぱんP](https://vocadb.net/S/588674)
+4. [モニタリング by DECO\*27 & Hayato Yamamoto](https://vocadb.net/S/668055)
+5. [ヤババイナ by さたぱん P](https://vocadb.net/S/588674)
 
 ### Top 5 (other than original) songs (by rating score):
 

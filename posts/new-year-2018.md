@@ -2,7 +2,6 @@
 title: Happy New Year 2018!
 authors: ["shiroizu"]
 slug: new-year-2018
-cover: temp_test.jpg
 date: 2018-01-01
 ---
 
@@ -33,7 +32,7 @@ According to the [first work -tag](http://vocadb.net/T/158/first-work), there we
 1. [砂の惑星 by ハチ](http://vocadb.net/S/157860)
 2. [アンノウン・マザーグース by wowaka](http://vocadb.net/S/164107)
 3. [ぼくらはみんな意味不明 by ピノキオピー](http://vocadb.net/S/153133)
-4. [ヒバナ by DECO*27 & Rockwell](http://vocadb.net/S/164074)
+4. [ヒバナ by DECO\*27 & Rockwell](http://vocadb.net/S/164074)
 5. [ナーヴ・インパルス by ポリスピカデリー](http://vocadb.net/S/149662)
 
 ### Top 5 albums:

@@ -2,7 +2,6 @@
 title: "New feature: event notifications"
 authors: ["riipah"]
 slug: event-notifications
-cover: temp_test.jpg
 date: 2017-09-09
 ---
 

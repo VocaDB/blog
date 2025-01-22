@@ -2,7 +2,6 @@
 title: TouhouDB open beta
 authors: ["riipah"]
 slug: touhoudb-beta
-cover: temp_test.jpg
 date: 2018-02-06
 ---
 

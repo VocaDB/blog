@@ -29,12 +29,42 @@ export const links: Route.LinksFunction = () => [
   { rel: "stylesheet", href: stylesheet },
 ];
 
+export const meta = () => {
+  return [
+    { title: "VocaDB Blog" },
+    {
+      property: "og:type",
+      content: "website",
+    },
+    {
+      property: "og:title",
+      content: "VocaDB Blog",
+    },
+    {
+      property: "og:image",
+      content: "/profile.jpg",
+    },
+  ];
+};
+
 export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta property="twitter:creator" content="@VocaDB" />
+        <meta property="twitter:site" content="@VocaDB" />
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="og:locale" content="en_US" />
+        <meta
+          property="og:description"
+          content="Welcome to the official VocaDB blog"
+        />
+        <meta
+          property="description"
+          content="Welcome to the official VocaDB blog"
+        />
         <script
           defer
           src="https://vocadb-analytics.fly.dev/script.js"

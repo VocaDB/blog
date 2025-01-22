@@ -18,6 +18,14 @@ export const meta = ({ data }: Route.MetaArgs) => {
       property: "og:title",
       content: data.post.title,
     },
+    {
+      property: "og:image",
+      content: data.post.cover ? "/covers/" + data.post.cover : "/profile.jpg",
+    },
+    {
+      property: "og:title",
+      content: "article",
+    },
   ];
 };
 

@@ -2,7 +2,6 @@
 title: Happy New Year 2021!
 authors: ["andreoda"]
 slug: new-year-2021
-cover: temp_test.jpg
 date: 2021-01-01
 ---
 
@@ -46,7 +45,7 @@ At the end of the year an exciting Vocaloid event was hosted by NicoNicoDouga: [
 
 1. [GETCHA! by Giga & KIRA](https://vocadb.net/S/293881)
 2. [ラグトレイン by 稲葉曇](https://vocadb.net/S/288238)
-3. [Ogre by 鬱P](https://vocadb.net/S/301147)
+3. [Ogre by 鬱 P](https://vocadb.net/S/301147)
 4. [Ready Steady by Giga](https://vocadb.net/S/296597)
 5. [愛されなくても君がいる by ピノキオピー](https://vocadb.net/S/284993)
 
@@ -56,12 +55,12 @@ At the end of the year an exciting Vocaloid event was hosted by NicoNicoDouga: [
 2. [初音ミク「マジカルミライ 2020」OFFICIAL ALBUM](https://vocadb.net/Al/28478)
 3. [ベノマ](https://vocadb.net/Al/27862)
 4. [#SUPER_SHIBORIKASU](https://vocadb.net/Al/28264)
-5. [ボカロEDM8](https://vocadb.net/Al/28310)
+5. [ボカロ EDM8](https://vocadb.net/Al/28310)
 
 ### Top 5 new producers:
 
 1. [Kanaria](https://vocadb.net/Ar/80976)
-2. [マイキP (Maiki P)](https://vocadb.net/Ar/83417)
+2. [マイキ P (Maiki P)](https://vocadb.net/Ar/83417)
 3. [ど～ぱみん (Dopam!ne)](https://vocadb.net/Ar/79769)
 4. [伊根 (INE)](https://vocadb.net/Ar/80754)
 5. [柊マグネタイト (Hiiragi Magnetite)](https://vocadb.net/Ar/83243)

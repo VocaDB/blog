@@ -41,7 +41,7 @@ const posts = defineCollection({
     slug: z.string(),
     authors: z.array(z.string()),
     date: z.string().date(),
-    cover: z.string(),
+    cover: z.string().optional(),
   }),
   transform: async (doc, context) => {
     const html = await compileMarkdown(context, doc);

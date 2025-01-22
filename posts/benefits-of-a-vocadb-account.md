@@ -2,7 +2,6 @@
 title: Benefits of a VocaDB account
 authors: ["riipah"]
 slug: benefits-vocadb-account
-cover: temp_test.jpg
 date: 2017-09-06
 ---
 
