@@ -62,7 +62,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           content="Welcome to the official VocaDB blog"
         />
         <meta
-          property="description"
+          name="description"
           content="Welcome to the official VocaDB blog"
         />
         <script
