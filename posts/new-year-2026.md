@@ -56,7 +56,6 @@ To see more events that happened in 2025, check out our [event search page](http
 ## VocaDB statistics 2025
 
 - New users: 4 982 (+ 65%)
-- Comments posted: /
 - Songs added: 169 468 (+ 14%)
 - Albums added: 6 657 (+ 33%)
 - Artists added: 23 944 (+ 16%)
