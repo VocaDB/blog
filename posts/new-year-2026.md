@@ -18,9 +18,8 @@ It is time to report on what happened in 2025 and what is coming in 2026.
 
 First, we would like to thank all site visitors and editors, trusted users and moderators. Last year we got more site traffic and support than ever before. The user base, comments and edits have grown immensely.
 
-<img width="872" height="548" alt="2025-users" src="https://github.com/user-attachments/assets/30c35c5d-4d1e-49a2-a62d-9356e88bf86d" />
-<img width="859" height="513" alt="2025-edits" src="https://github.com/user-attachments/assets/3bbef55c-8808-4523-a49c-bb8ea9240be9" />
-<img width="950" height="463" alt="views_by_country_2025" src="https://github.com/user-attachments/assets/0002abc3-a1ea-4b45-83cf-5fe42a7e62f5" />
+[monthly_new_users_2025](https://github.com/user-attachments/assets/79058d78-33b9-4b50-8987-166650395309)
+[monthly_edits_2025](https://github.com/user-attachments/assets/373270f7-60fd-475d-ae7c-e8a18f759bec)
 
 Since we restarted annual social media posts, showing VocaDB song rankings, we gained a lot of followers there as well. Check out our [X/Twitter](https://x.com/VocaDB) and [Bluesky](https://bsky.app/profile/vocadb.net) account to see for yourself.
 
