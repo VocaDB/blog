@@ -62,8 +62,6 @@ To see more events that happened in 2025, check out our [event search page](http
 - Artists added: 23 944 (+ 16%)
 - Total edits: 773 334 (+ 30%)
 
-## VocaDB entry type statistics 2025
-
 ### Top 5 original songs (by rating score):
 
 1. [Static](https://vocadb.net/S/793121) (826)
@@ -130,7 +128,7 @@ To see more events that happened in 2025, check out our [event search page](http
 
 ---
 
-## General voice synth song statistics 2025
+## General statistics 2025
 
 ### Top 5 original songs on NND (by views):
 
