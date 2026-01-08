@@ -20,12 +20,13 @@ First, we would like to thank all site visitors and editors, trusted users and m
 
 ![monthly_new_users_2025](https://github.com/user-attachments/assets/79058d78-33b9-4b50-8987-166650395309)
 ![monthly_edits_2025](https://github.com/user-attachments/assets/373270f7-60fd-475d-ae7c-e8a18f759bec)
+-> [VocaDB statistics](https://vocadb.net/stats)
 
-Since we restarted annual social media posts, showing VocaDB song rankings, we gained a lot of followers there as well. Check out our [X/Twitter](https://x.com/VocaDB) and [Bluesky](https://bsky.app/profile/vocadb.net) account to see for yourself.
+Since we restarted annual social media posts, showing [VocaDB song rankings](https://vocadb.net/Song/Rankings?durationHours=168), we gained a lot of followers there as well. Check out our [X/Twitter](https://x.com/VocaDB) and [Bluesky](https://bsky.app/profile/vocadb.net) account to see for yourself.
 
 In 2025, the [VocaDB wiki](https://wiki.vocadb.net/) was updated with individual and re-usable rule pages among other [developmental and content-related changes](https://github.com/VocaDB/Wiki/commits/main/).
 
-The [VocaDB Discord](https://discord.com/invite/3bwXQNXKCz) also got some updates: we added more channels and restructured the categories. This year we reached the 1000 user threshold.
+The [VocaDB Discord](https://discord.com/invite/3bwXQNXKCz) also got some updates: we added more channels and restructured the categories. This year we reached the **1000** user threshold.
 
 **The main website updates from 2025/early 2026:**
 
@@ -44,13 +45,13 @@ Last time, we told you about “Project Mirai,” our website revamp. We’re st
 ---
 
 Before we head into the statistics, here is a recap of the most important voice synth related events that happened in 2025.
-Many voice synth characters celebrated their 10th release anniversary, these are the highlights:
+Many voice synth characters celebrated their **10th release anniversary**, these are the highlights:
 [ARSLOID](https://vocadb.net/Ar/36129), the [CeVIO Color Voice group](https://vocadb.net/T/3117) by [JOYSOUND](https://vocadb.net/T/3118/joysound) ([Akasaki Minato](https://vocadb.net/Ar/32385), [Ginsaki Yamato](https://vocadb.net/Ar/33792), [Kinzaki Koharu](https://vocadb.net/Ar/33790), [Kizaki Airi](https://vocadb.net/Ar/34471), [Midorizaki Kasumi](https://vocadb.net/Ar/32387), [Shirosaki Yuudai](https://vocadb.net/Ar/34470)), [CYBER DIVA](https://vocadb.net/Ar/31020), [DAINA](https://vocadb.net/Ar/36170) & [DEX](https://vocadb.net/Ar/36169), [Daisy](https://vocadb.net/Ar/157260), [Kazehiki](https://vocadb.net/Ar/43443), [Kuzuda Rou](https://vocadb.net/Ar/41820) & [Kuzuda Yone](https://vocadb.net/Ar/41819) (three of the many characters created by [Kurukuru Suuzi](https://vocadb.net/Ar/14682)), [Mawarine Shuu](https://vocadb.net/Ar/40905), [Minase Kou](https://vocadb.net/Ar/43276), [Number Bronze](https://vocadb.net/Ar/46436), [OИE](https://vocadb.net/Ar/31062), [Ruby](https://vocadb.net/Ar/25258), [Sachiko](https://vocadb.net/Ar/39620), [Sekiga Yuuma](https://vocadb.net/Ar/46946), [Sonata](https://vocadb.net/Ar/46525), the Touhoku sisters [Touhoku Itako](https://vocadb.net/Ar/121245) & [Touhoku Kiritan](https://vocadb.net/Ar/106530), [Xin Hua](https://vocadb.net/Ar/30995), [Yuezheng Ling](https://vocadb.net/Ar/23972)
 
 Other significant events that happened:
 [Hatsune Miku Digital Stars 2025](https://vocadb.net/Es/245), [HATSUNE MIKU JAPAN TOUR 2025 〜BLOOMING〜](https://vocadb.net/Es/799), [Hatsune Miku Symphony 2025](https://vocadb.net/Es/256), [Magical Mirai 2025](https://vocadb.net/Es/81), [Magical Mirai Song Contest 2026](https://vocadb.net/E/9666), [MIKU EXPO 2025 Asia](https://vocadb.net/Es/82), [MIKU EXPO 2026 Song Contest](https://vocadb.net/E/9612), [ProSeka NEXT 27 - 32](https://vocadb.net/Es/260), [The VOCALOID Collection 2025 Summer](https://vocadb.net/E/8763), [The VOCALOID Collection 2025 Winter](https://vocadb.net/E/7935), [Vocaloid Song Anonymous Uploading 3](https://vocadb.net/E/9122), [YouTube Music Weekend 10.0](https://vocadb.net/Es/971)
 
-To see more events that happened in 2025, check out our [event search page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2025-01-01T05%3A22%3A41.352Z&beforeDate=2025-12-31T05%3A22%3A43.493Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory&filter&onlyMyEvents=false&page=1&pageSize=100&sort=Name). (1100+ events in 2025)
+To see more events that happened in 2025, check out our [event search page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2025-01-01T05%3A22%3A41.352Z&beforeDate=2025-12-31T05%3A22%3A43.493Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory&filter&onlyMyEvents=false&page=1&pageSize=100&sort=Name). (**1100+** events in 2025)
 
 ---
 
