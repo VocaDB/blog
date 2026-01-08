@@ -66,19 +66,19 @@ To see more events that happened in 2025, check out our [event search page](http
 
 ### Top 5 original songs (by rating score):
 
-1. [Static](https://vocadb.net/S/793121) (826)
-2. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) (787) 
-3. [Spoken For](https://vocadb.net/S/820162) (567)
-4. [BIRDBRAIN](https://vocadb.net/S/805916) (542)
-5. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) (476)
+1. [Static](https://vocadb.net/S/793121) by Jamie Paige, rice, Vane Lily (826)
+2. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) by SAWTOWNE (787) 
+3. [Spoken For](https://vocadb.net/S/820162) by Jamie Paige, rice, Vane Lily (567)
+4. [BIRDBRAIN](https://vocadb.net/S/805916) by Jamie Paige, OK GLASS (542)
+5. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (476)
 
 ### Top 5 non-original songs (by rating score):
 
-1. [フリージア (Freesia)](https://vocadb.net/S/807725) (399)
-2. [モニタリング (Best Friend Remix) (Monitoring (Best Friend Remix))](https://vocadb.net/S/835474) (321)
-3. [D/N/A](https://vocadb.net/S/768497) (263)
-4. [雑魚 (Zako)](https://vocadb.net/S/761077) (251)
-5. [ORIGINAL VOCALOID SONG](https://vocadb.net/S/838848) (220)
+1. [フリージア (Freesia)](https://vocadb.net/S/807725) by ex-Dr. WILLY (399)
+2. [モニタリング (Best Friend Remix) (Monitoring (Best Friend Remix))](https://vocadb.net/S/835474) by DECO*27, Hayato Yamamoto (321)
+3. [D/N/A](https://vocadb.net/S/768497) by Azari (263)
+4. [雑魚 (Zako)](https://vocadb.net/S/761077) 柊マグネタイト (Hiiragi Magnetite) (251)
+5. [ORIGINAL VOCALOID SONG](https://vocadb.net/S/838848) by ShortKing (220)
 
 ### Top 5 albums (by collection count):
 
