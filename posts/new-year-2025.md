@@ -45,12 +45,11 @@ To see more events that happened in 2024, see our [event page](https://vocadb.ne
 
 ## VocaDB statistics 2024
 
-- New users: 3200 (19 % of all the users)
-- Comments posted: 15 000 (33 % of all the comments)
-- Songs added: 150 000 (23 %)
-- Albums added: 5 000 (17 %)
-- Artists added: 20 000 (17 %)
-- Edits made: 600 000 (29 %)
+- New users: 3 017 (+ 15%)
+- Songs added: 148 860 (+ 51%) 
+- Albums added: 5 004 (+ 21%)
+- Artists added: 20 656 (+ 23%)
+- Total edits: 595 743 (+ 73%)
 
 ### Top 5 original songs (by rating score):
 
