@@ -8,8 +8,8 @@ date: 2026-01-08
 
 # Happy New Year 2026!
 
-![Illustration by びんちょうまぐろ](https://github.com/user-attachments/assets/2b5aafba-6a66-4ba0-8b82-7695b2557adf)
-_Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389829)_
+![Illustration by うりすけ](https://github.com/user-attachments/assets/06e92521-6c48-416d-a7bb-e3c9f9e07db9)
+_Illustration by [うりすけ](https://www.pixiv.net/en/users/10254067)_
 
 ---
 
