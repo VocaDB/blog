@@ -134,19 +134,19 @@ To see more events that happened in 2025, check out our [event search page](http
 
 ### Top 5 original songs on NND (by views):
 
-1. [テレパシ (Telepathy)](https://vocadb.net/S/752940) (2 239 478)
-2. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) (1 856 363)
-3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) (1 785 472)
-4. [BLUE BACK](https://vocadb.net/S/720004) (1 448 015)
-5. [チェリーポップ (Cherry Pop)](https://vocadb.net/S/816725) (904 633)
+1. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO*27, tepe (2 239 478)
+2. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) by 雨良 (Amala) (1 856 363)
+3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (1 785 472)
+4. [BLUE BACK](https://vocadb.net/S/720004) by じん (JIN) (1 448 015)
+5. [チェリーポップ (Cherry Pop)](https://vocadb.net/S/816725) by DECO*27, Hayato Yamamoto (904 633)
 
 ### Top 5 original songs on YouTube (by views):
 
-1. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) (43 329 701)
-2. [テレパシ (Telepathy)](https://vocadb.net/S/752940) (40 962 160)
-3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) (40 215 677)
-4. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) (36 387 446)
-5. [お返事まだカナ💦❓おじさん構文😁❗️ (Ohenji mada kana💦❓ Ojisan Koubun😁❗️)](https://vocadb.net/S/795759) (34 934 805)
+1. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) by 雨良 (Amala) (43 329 701)
+2. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO*27, tepe (40 962 160)
+3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (40 215 677)
+4. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) by SAWTOWNE (36 387 446)
+5. [お返事まだカナ💦❓おじさん構文😁❗️ (Ohenji mada kana💦❓ Ojisan Koubun😁❗️)](https://vocadb.net/S/795759) by 吉本おじさん (Yoshimoto Ojisan) (34 934 805)
 
 ---
 
