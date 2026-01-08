@@ -2,7 +2,7 @@
 title: Happy New Year 2026!
 authors: ["andreoda"]
 slug: new-year-2026
-cover: new-year-2025.png
+cover: new-year-2026.png
 date: 2026-01-08
 ---
 
