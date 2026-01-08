@@ -77,7 +77,7 @@ To see more events that happened in 2025, check out our [event search page](http
 1. [フリージア (Freesia)](https://vocadb.net/S/807725) by ex-Dr. WILLY (399)
 2. [モニタリング (Best Friend Remix) (Monitoring (Best Friend Remix))](https://vocadb.net/S/835474) by DECO*27, Hayato Yamamoto (321)
 3. [D/N/A](https://vocadb.net/S/768497) by Azari (263)
-4. [雑魚 (Zako)](https://vocadb.net/S/761077) 柊マグネタイト (Hiiragi Magnetite) (251)
+4. [雑魚 (Zako)](https://vocadb.net/S/761077) by 柊マグネタイト (Hiiragi Magnetite) (251)
 5. [ORIGINAL VOCALOID SONG](https://vocadb.net/S/838848) by ShortKing (220)
 
 ### Top 5 albums (by collection count):
