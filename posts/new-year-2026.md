@@ -2,7 +2,7 @@
 title: Happy New Year 2026!
 authors: ["andreoda"]
 slug: new-year-2026
-cover: new-year-2026.png
+cover: new-year-2026.webp
 date: 2026-01-08
 ---
 
@@ -67,7 +67,7 @@ To see more events that happened in 2025, check out our [event search page](http
 ### Top 5 original songs (by rating score):
 
 1. [Static](https://vocadb.net/S/793121) by Jamie Paige, rice, Vane Lily (826)
-2. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) by SAWTOWNE (787) 
+2. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) by SAWTOWNE (787)
 3. [Spoken For](https://vocadb.net/S/820162) by Jamie Paige, rice, Vane Lily (567)
 4. [BIRDBRAIN](https://vocadb.net/S/805916) by Jamie Paige, OK GLASS (542)
 5. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (476)
@@ -75,7 +75,7 @@ To see more events that happened in 2025, check out our [event search page](http
 ### Top 5 non-original songs (by rating score):
 
 1. [フリージア (Freesia)](https://vocadb.net/S/807725) by ex-Dr. WILLY (399)
-2. [モニタリング (Best Friend Remix) (Monitoring (Best Friend Remix))](https://vocadb.net/S/835474) by DECO*27, Hayato Yamamoto (321)
+2. [モニタリング (Best Friend Remix) (Monitoring (Best Friend Remix))](https://vocadb.net/S/835474) by DECO\*27, Hayato Yamamoto (321)
 3. [D/N/A](https://vocadb.net/S/768497) by Azari (263)
 4. [雑魚 (Zako)](https://vocadb.net/S/761077) by 柊マグネタイト (Hiiragi Magnetite) (251)
 5. [ORIGINAL VOCALOID SONG](https://vocadb.net/S/838848) by ShortKing (220)
@@ -91,10 +91,10 @@ To see more events that happened in 2025, check out our [event search page](http
 ### Top 5 producers (by rating score):
 
 1. [Jamie Paige](https://vocadb.net/Ar/23155) (11.059)
-2. [DECO*27](https://vocadb.net/Ar/45) (10.815)
+2. [DECO\*27](https://vocadb.net/Ar/45) (10.815)
 3. [ピノキオピー (PinocchioP)](https://vocadb.net/Ar/28) (9.626)
 4. [MARETU](https://vocadb.net/Ar/1665) (8.377)
-5. [鬱P (Utsu-P)](https://vocadb.net/Ar/90) (8.272)
+5. [鬱 P (Utsu-P)](https://vocadb.net/Ar/90) (8.272)
 
 ### Top 5 new producers (by rating score):
 
@@ -134,19 +134,19 @@ To see more events that happened in 2025, check out our [event search page](http
 
 ### Top 5 original songs on NND (by views):
 
-1. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO*27, tepe (2 239 478)
+1. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO\*27, tepe (2 239 478)
 2. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) by 雨良 (Amala) (1 856 363)
 3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (1 785 472)
 4. [BLUE BACK](https://vocadb.net/S/720004) by じん (JIN) (1 448 015)
-5. [チェリーポップ (Cherry Pop)](https://vocadb.net/S/816725) by DECO*27, Hayato Yamamoto (904 633)
+5. [チェリーポップ (Cherry Pop)](https://vocadb.net/S/816725) by DECO\*27, Hayato Yamamoto (904 633)
 
 ### Top 5 original songs on YouTube (by views):
 
 1. [ダイダイダイダイダイキライ (Daidaidaidaidaikirai)](https://vocadb.net/S/762777) by 雨良 (Amala) (43 329 701)
-2. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO*27, tepe (40 962 160)
+2. [テレパシ (Telepathy)](https://vocadb.net/S/752940) by DECO\*27, tepe (40 962 160)
 3. [いますぐ輪廻 (Imasugu Rinne)](https://vocadb.net/S/819926) by なきそ (NAKISO) (40 215 677)
 4. [Confessions of a Rotten Girl](https://vocadb.net/S/734953) by SAWTOWNE (36 387 446)
-5. [お返事まだカナ💦❓おじさん構文😁❗️ (Ohenji mada kana💦❓ Ojisan Koubun😁❗️)](https://vocadb.net/S/795759) by 吉本おじさん (Yoshimoto Ojisan) (34 934 805)
+5. [お返事まだカナ 💦❓ おじさん構文 😁❗️ (Ohenji mada kana💦❓ Ojisan Koubun😁❗️)](https://vocadb.net/S/795759) by 吉本おじさん (Yoshimoto Ojisan) (34 934 805)
 
 ---
 
