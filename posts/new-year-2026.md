@@ -18,8 +18,8 @@ It is time to report on what happened in 2025 and what is coming in 2026.
 
 First, we would like to thank all site visitors and editors, trusted users and moderators. Last year we got more site traffic and support than ever before. The user base, comments and edits have grown immensely.
 
-![monthly_new_users_2025](https://github.com/user-attachments/assets/bec45203-577d-42f8-8589-018e9aeb557f)
-![monthly_edits_2025](https://github.com/user-attachments/assets/09b43679-de9e-421f-91f8-061fcb46cd35)
+![monthly_new_users_2025](https://github.com/user-attachments/assets/2cbc7187-75f5-4d98-af6e-d3637a366113)
+![monthly_edits_2025](https://github.com/user-attachments/assets/b3cf0823-d2f2-43a9-9084-50bba244932d)
 -> [VocaDB statistics](https://vocadb.net/stats)
 
 Since we restarted annual social media posts, showing [VocaDB song rankings](https://vocadb.net/Song/Rankings?durationHours=168), we gained a lot of followers there as well. Check out our [X/Twitter](https://x.com/VocaDB) and [Bluesky](https://bsky.app/profile/vocadb.net) account to see for yourself.
@@ -53,6 +53,9 @@ Other significant events that happened:
 [Hatsune Miku Digital Stars 2025](https://vocadb.net/Es/245), [HATSUNE MIKU JAPAN TOUR 2025 〜BLOOMING〜](https://vocadb.net/Es/799), [Hatsune Miku Symphony 2025](https://vocadb.net/Es/256), [Magical Mirai 2025](https://vocadb.net/Es/81), [Magical Mirai Song Contest 2026](https://vocadb.net/E/9666), [MIKU EXPO 2025 Asia](https://vocadb.net/Es/82), [MIKU EXPO 2026 Song Contest](https://vocadb.net/E/9612), [ProSeka NEXT 27 - 32](https://vocadb.net/Es/260), [The VOCALOID Collection 2025 Summer](https://vocadb.net/E/8763), [The VOCALOID Collection 2025 Winter](https://vocadb.net/E/7935), [Vocaloid Song Anonymous Uploading 3](https://vocadb.net/E/9122), [YouTube Music Weekend 10.0](https://vocadb.net/Es/971)
 
 To see more events that happened in 2025, check out our [event search page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2025-01-01T05%3A22%3A41.352Z&beforeDate=2025-12-31T05%3A22%3A43.493Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory&filter&onlyMyEvents=false&page=1&pageSize=100&sort=Name). (**1100+** events in 2025)
+
+Furthermore, we asked the community for their highlights of the year in a survey. Here are the results:
+![community_views](https://github.com/user-attachments/assets/36f41d1a-262f-4820-846d-c5255314c312)
 
 ---
 
