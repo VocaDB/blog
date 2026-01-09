@@ -18,8 +18,8 @@ It is time to report on what happened in 2025 and what is coming in 2026.
 
 First, we would like to thank all site visitors and editors, trusted users and moderators. Last year we got more site traffic and support than ever before. The user base, comments and edits have grown immensely.
 
-![monthly_new_users_2025](https://github.com/user-attachments/assets/79058d78-33b9-4b50-8987-166650395309)
-![monthly_edits_2025](https://github.com/user-attachments/assets/373270f7-60fd-475d-ae7c-e8a18f759bec)
+![monthly_new_users_2025](https://github.com/user-attachments/assets/a7dcfa62-19ce-48ac-aea3-f00cfdea2c1e)
+![monthly_edits_2025](https://github.com/user-attachments/assets/a9699906-abff-4f97-bceb-8437d98feaa0)
 -> [VocaDB statistics](https://vocadb.net/stats)
 
 Since we restarted annual social media posts, showing [VocaDB song rankings](https://vocadb.net/Song/Rankings?durationHours=168), we gained a lot of followers there as well. Check out our [X/Twitter](https://x.com/VocaDB) and [Bluesky](https://bsky.app/profile/vocadb.net) account to see for yourself.
