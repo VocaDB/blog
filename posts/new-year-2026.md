@@ -55,7 +55,7 @@ Other significant events that happened:
 To see more events that happened in 2025, check out our [event search page](https://vocadb.net/Search?searchType=ReleaseEvent&afterDate=2025-01-01T05%3A22%3A41.352Z&beforeDate=2025-12-31T05%3A22%3A43.493Z&childTags=false&childVoicebanks=false&draftsOnly=false&eventCategory&filter&onlyMyEvents=false&page=1&pageSize=100&sort=Name). (**1100+** events in 2025)
 
 Furthermore, we asked the community for their highlights of the year in a survey. Here are the results:
-![community_views](https://github.com/user-attachments/assets/36f41d1a-262f-4820-846d-c5255314c312)
+![community_views](https://github.com/user-attachments/assets/94b4264e-d6b8-4f44-96dd-6a0188af93d0)
 
 ---
 
