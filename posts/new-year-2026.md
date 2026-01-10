@@ -16,7 +16,7 @@ _Illustration by [うりすけ](https://www.pixiv.net/en/users/10254067)_
 Welcome to the annual new years post from VocaDB!
 It is time to report on what happened in 2025 and what is coming in 2026.
 
-First, we would like to thank all site visitors and editors, trusted users and moderators. Last year we got more site traffic and support than ever before. The user base, comments and edits have grown immensely.
+First, we would like to thank all site visitors and editors, trusted users and moderators. Last year we got more site traffic and support than ever before. The user base, comments and edits have grown immensely. Currently, the database contains over **137 100** artist entries, over **35 300** album entries, over **826 900** song entries, over **8 500** event entries and over **5 200** tag entries. As of now, VocaDB counts over **21 600** registered users.
 
 ![monthly_new_users_2025](https://github.com/user-attachments/assets/2cbc7187-75f5-4d98-af6e-d3637a366113)
 ![monthly_edits_2025](https://github.com/user-attachments/assets/b3cf0823-d2f2-43a9-9084-50bba244932d)
