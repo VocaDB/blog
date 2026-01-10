@@ -15,7 +15,7 @@ _Illustration by [びんちょうまぐろ](https://www.pixiv.net/en/users/27389
 
 Finally it is time for a new statistical report of the previous year.
 
-It's been a few years since our previous [New Year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
+It's been a few years since our last [New year's post](https://blog.vocadb.net/blog/new-year-2021). Now that we have a new blog up and running, we plan on starting this semi-annual tradition once again. We will also start using this place for various other kinds of posts, such as rule explanations in longer essay format, different tutorials, development-related reports and survey results, so say “Hello” to this new blog.
 
 The year 2024 has been great for VocaDB (now 13 years old since beta!). New user registrations, comments and edits have been growing at an increasing rate. For example in the previous year we had roughly **600 000** edits, which is nearly **30 %** of all the edits over our whole 10+ year history. See more statistics below.
 
