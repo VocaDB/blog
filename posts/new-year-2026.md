@@ -40,7 +40,7 @@ The [VocaDB Discord](https://discord.com/invite/3bwXQNXKCz) also got some update
 Other site updates are listed in the [VocaDB website changelog](https://wiki.vocadb.net/docs/website-changelog).
 For more detailed development updates and requests, check out the [VocaDB GitHub](https://github.com/VocaDB/vocadb/issues).
 
-Last time, we told you about “Project Mirai,” our website revamp. We’re still working on it, but making great progress. Thank you for your patience as we prepare to deliver a faster, more stable website with a new UI and additional features.
+Last time, we told you about “Project Mirai”, our website revamp. We’re still working on it, but making great progress. Thank you for your patience as we prepare to deliver a faster, more stable website with a new UI and additional features.
 
 ---
 
