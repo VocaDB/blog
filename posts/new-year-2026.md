@@ -87,25 +87,25 @@ Furthermore, we asked the community for their highlights of the year in a survey
 ### Top 5 albums (by collection count):
 
 1. [MACHINA MORI](https://vocadb.net/Al/44818) (99)
-2. [PERFECT PERSONA](https://vocadb.net/Al/48226) (67)
-3. [CARDIAC CONTREPOINT](https://vocadb.net/Al/45263) (65)
+2. [CARDIAC CONTREPOINT](https://vocadb.net/Al/45263) (67)
+3. [PERFECT PERSONA](https://vocadb.net/Al/48226) (67)
 4. [RE-UPLOAD](https://vocadb.net/Al/48044) (62)
 5. [Constant Companions (Deluxe Edition)](https://vocadb.net/Al/47985) (57)
 
 ### Top 5 producers (by rating score):
 
-1. [Jamie Paige](https://vocadb.net/Ar/23155) (11.059)
-2. [DECO\*27](https://vocadb.net/Ar/45) (10.815)
-3. [ピノキオピー (PinocchioP)](https://vocadb.net/Ar/28) (9.626)
-4. [MARETU](https://vocadb.net/Ar/1665) (8.377)
-5. [鬱 P (Utsu-P)](https://vocadb.net/Ar/90) (8.272)
+1. [Jamie Paige](https://vocadb.net/Ar/23155) (11 059)
+2. [DECO\*27](https://vocadb.net/Ar/45) (10 815)
+3. [ピノキオピー (PinocchioP)](https://vocadb.net/Ar/28) (9 626)
+4. [MARETU](https://vocadb.net/Ar/1665) (8 377)
+5. [鬱 P (Utsu-P)](https://vocadb.net/Ar/90) (8 272)
 
 ### Top 5 new producers (by rating score):
 
 1. [OK GLASS](https://vocadb.net/Ar/163982) (528)
-2. [rai](https://vocadb.net/Ar/165958) (189)
-3. [吉本おじさん (yoshimoto ojisan)](https://vocadb.net/Ar/159399) (167)
-4. [了考シユ (Ryokawo Shiyu)](https://vocadb.net/Ar/160942) (167)
+2. [Rai](https://vocadb.net/Ar/165958) (189)
+3. [了考シユ (Ryokawo Shiyu)](https://vocadb.net/Ar/160942) (167)
+4. [吉本おじさん (Yoshimoto Ojisan)](https://vocadb.net/Ar/159399) (167)
 5. [マツリカ (Matsurika)](https://vocadb.net/Ar/152837) (108)
 
 ### Top 5 voice synths (by songs):
