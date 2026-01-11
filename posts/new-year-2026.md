@@ -130,7 +130,7 @@ Furthermore, we asked the community for their highlights of the year in a survey
 2. [EDM](https://vocadb.net/T/1552) (908)
 3. [Pop](https://vocadb.net/T/341) (790)
 4. [Subeana-style](https://vocadb.net/T/7526) (730)
-5. [Ballad](https://vocadb.net/T/262) (688)
+5. [Ballad](https://vocadb.net/T/262) (688) / [Metal](https://vocadb.net/T/262) 688
 
 ---
 
