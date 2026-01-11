@@ -86,23 +86,23 @@ Furthermore, we asked the community for their highlights of the year in a survey
 
 ### Top 5 albums (by collection count):
 
-1. [MACHINA MORI](https://vocadb.net/Al/44818) (99)
+1. [MACHINA MORI](https://vocadb.net/Al/44818) (100)
 2. [CARDIAC CONTREPOINT](https://vocadb.net/Al/45263) (67)
 3. [PERFECT PERSONA](https://vocadb.net/Al/48226) (67)
 4. [RE-UPLOAD](https://vocadb.net/Al/48044) (62)
-5. [Constant Companions (Deluxe Edition)](https://vocadb.net/Al/47985) (57)
+5. [Constant Companions (Deluxe Edition)](https://vocadb.net/Al/47985) (59)
 
 ### Top 5 producers (by rating score):
 
-1. [Jamie Paige](https://vocadb.net/Ar/23155) (11 059)
-2. [DECO\*27](https://vocadb.net/Ar/45) (10 815)
-3. [ピノキオピー (PinocchioP)](https://vocadb.net/Ar/28) (9 626)
-4. [MARETU](https://vocadb.net/Ar/1665) (8 377)
+1. [Jamie Paige](https://vocadb.net/Ar/23155) (11 043)
+2. [DECO\*27](https://vocadb.net/Ar/45) (10 810)
+3. [ピノキオピー (PinocchioP)](https://vocadb.net/Ar/28) (9 624)
+4. [MARETU](https://vocadb.net/Ar/1665) (8 374)
 5. [鬱 P (Utsu-P)](https://vocadb.net/Ar/90) (8 272)
 
 ### Top 5 new producers (by rating score):
 
-1. [OK GLASS](https://vocadb.net/Ar/163982) (528)
+1. [OK GLASS](https://vocadb.net/Ar/163982) (526)
 2. [Rai](https://vocadb.net/Ar/165958) (189)
 3. [了考シユ (Ryokawo Shiyu)](https://vocadb.net/Ar/160942) (167)
 4. [吉本おじさん (Yoshimoto Ojisan)](https://vocadb.net/Ar/159399) (167)
@@ -110,27 +110,27 @@ Furthermore, we asked the community for their highlights of the year in a survey
 
 ### Top 5 voice synths (by songs):
 
-1. [初音ミク (Hatsune Miku)](https://vocadb.net/Ar/1) (17 765)
-2. [重音テト (Kasane Teto)](https://vocadb.net/Ar/140308) (11 189)
-3. [鏡音リン (Kagamine Rin)](https://vocadb.net/Ar/14) (2792)
-4. [巡音ルカ (Megurine Luka)](https://vocadb.net/Ar/2) (2 744)
-5. [GUMI](https://vocadb.net/Ar/3) (2 621)
+1. [初音ミク (Hatsune Miku)](https://vocadb.net/Ar/1) (17 926)
+2. [重音テト (Kasane Teto)](https://vocadb.net/Ar/140308) (11 314)
+3. [鏡音リン (Kagamine Rin)](https://vocadb.net/Ar/14) (2 810)
+4. [巡音ルカ (Megurine Luka)](https://vocadb.net/Ar/2) (2 748)
+5. [GUMI](https://vocadb.net/Ar/3) (2 645)
 
 ### Top 5 new voice synths (by songs):
 
-1. [雨衣 (Ui) (VoiSona)](https://vocadb.net/Ar/146445) (426)
-2. [HXVOC (Synthesizer V)](https://vocadb.net/Ar/154022) (257)
-3. [UNI (Synthesizer V)](https://vocadb.net/Ar/156534) (244)
+1. [雨衣 (Ui) (VoiSona)](https://vocadb.net/Ar/146445) (430)
+2. [HXVOC (Synthesizer V)](https://vocadb.net/Ar/154022) (259)
+3. [UNI (Synthesizer V)](https://vocadb.net/Ar/156534) (255)
 4. [CASE (UTAU)](https://vocadb.net/Ar/157030) (229)
-5. [氷山キヨテル (Hiyama Kiyoteru) (Synthesizer V)](https://vocadb.net/Ar/148445) (226)
+5. [氷山キヨテル (Hiyama Kiyoteru) (Synthesizer V)](https://vocadb.net/Ar/148445) (227)
 
 ### Top 5 most popular music genres (by song count):
 
-1. [rock](https://vocadb.net/T/481) (4259)
-2. [EDM](https://vocadb.net/T/1552) (883)
-3. [pop](https://vocadb.net/T/341) (778)
-4. [Subeana-style](https://vocadb.net/T/7526) (726)
-5. [metal](https://vocadb.net/T/262) (682)
+1. [Rock](https://vocadb.net/T/481) (4304)
+2. [EDM](https://vocadb.net/T/1552) (908)
+3. [Pop](https://vocadb.net/T/341) (790)
+4. [Subeana-style](https://vocadb.net/T/7526) (730)
+5. [Ballad](https://vocadb.net/T/262) (688)
 
 ---
 
