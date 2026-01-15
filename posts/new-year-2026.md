@@ -108,7 +108,7 @@ Furthermore, we asked the community for their highlights of the year in a survey
 4. [吉本おじさん (Yoshimoto Ojisan)](https://vocadb.net/Ar/159399) (167)
 5. [マツリカ (Matsurika)](https://vocadb.net/Ar/152837) (108)
 
-### Top 5 voice synths (by songs):
+### Top 5 voice synths (by song count):
 
 1. [初音ミク (Hatsune Miku)](https://vocadb.net/Ar/1) (17 926)
 2. [重音テト (Kasane Teto)](https://vocadb.net/Ar/140308) (11 314)
@@ -116,7 +116,7 @@ Furthermore, we asked the community for their highlights of the year in a survey
 4. [巡音ルカ (Megurine Luka)](https://vocadb.net/Ar/2) (2 748)
 5. [GUMI](https://vocadb.net/Ar/3) (2 645)
 
-### Top 5 new voice synths (by songs):
+### Top 5 new voice synths (by song count):
 
 1. [雨衣 (Ui) (VoiSona)](https://vocadb.net/Ar/146445) (430)
 2. [HXVOC (Synthesizer V)](https://vocadb.net/Ar/154022) (259)
