@@ -25,7 +25,11 @@ export const meta = ({ data }: Route.MetaArgs) => {
       }`,
     },
     {
-      property: "og:title",
+      property: "og:description",
+      content: data.post.shortened
+    },
+    {
+      property: "og:type",
       content: "article",
     },
   ];
