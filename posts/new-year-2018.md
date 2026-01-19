@@ -8,7 +8,7 @@ date: 2018-01-01
 # Happy New Year 2018!
 
 ![Illustration by はつねネガメ](/images/miku-2018.jpg)
-_Illustration by [はつねネガメ](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66587506)_
+_Illustration by [はつねネガメ](https://www.pixiv.net/en/users/1969060)_
 
 ---
 
